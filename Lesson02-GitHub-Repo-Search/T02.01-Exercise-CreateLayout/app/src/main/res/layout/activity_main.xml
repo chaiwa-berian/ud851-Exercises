@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:textSize="22sp"
         android:layout_marginTop="8dp"
-        android:text="search results will show up here when they click search"/>
+        android:text="@string/github_search_results"/>
     <!--COMPLETE (13) Give the TextView an id of @+id/tv_url_display-->
     <!--COMPLETE (14) Set the text size to 22sp-->
     <!--COMPLETE (15) Set the width to wrap_content and the height to wrap_content-->

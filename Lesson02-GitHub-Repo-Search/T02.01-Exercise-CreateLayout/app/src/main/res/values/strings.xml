@@ -17,5 +17,5 @@
     <string name="app_name">Github Query</string>
     <string name="github_search_hint">enter github query and then click on search</string>
     <string name="github_search_results_placeholder">Please Search To See Results</string>
-    <string name="github_search_results">search results will show up here when they click search</string>
+    <string name="github_search_results">search results will show up here when you click search</string>
 </resources>
